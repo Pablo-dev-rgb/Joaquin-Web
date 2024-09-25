@@ -1,0 +1,51 @@
+.cartaProd {
+  position: absolute;
+  height: 210px;
+  width: 180px;
+  top: 180px;
+  background: #1f618d;
+  border-radius: 10px;
+  mask-image: 20px;
+}
+
+.imgCart {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  height: 100px;
+  width: 100px;
+}
+
+.nombreProd {
+  position: absolute;
+  top: 130px;
+  margin: 3px;
+  font-size: 15px;
+}
+
+.descripcionProd {
+  position: absolute;
+  top: 150px;
+  font-size: 10px;
+  margin: 3px;
+}
+
+.precioProd {
+  position: absolute;
+  top: 175px;
+  margin: 3px;
+}
+
+.agregarProd {
+  position: absolute;
+  top: 175px;
+  right: 5px;
+  margin: 3px;
+}
+
+.eliminarProd {
+  position: absolute;
+  top: 175px;
+  right: 50px;
+  margin: 3px;
+}
